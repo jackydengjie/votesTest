@@ -1,0 +1,15 @@
+[INFO] [2021-01-06 22:56:11][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization started
+  [INFO] [2021-01-06 22:56:11][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Wed Jan 06 22:56:11 CST 2021]; root of context hierarchy
+  [INFO] [2021-01-06 22:56:11][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mvc.xml]
+  [INFO] [2021-01-06 22:56:12][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2021-01-06 22:56:12][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/user/test],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String controller.UserController.test(javax.servlet.http.HttpServletRequest,org.springframework.ui.Model)
+  [INFO] [2021-01-06 22:56:12][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/../resources] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+  [INFO] [2021-01-06 22:56:12][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization completed in 593 ms
+  [INFO] [2021-01-06 22:58:22][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization started
+  [INFO] [2021-01-06 22:58:22][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Wed Jan 06 22:58:22 CST 2021]; root of context hierarchy
+  [INFO] [2021-01-06 22:58:22][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mvc.xml]
+  [INFO] [2021-01-06 22:58:22][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2021-01-06 22:58:22][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/user/test],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String controller.UserController.test(javax.servlet.http.HttpServletRequest,org.springframework.ui.Model)
+  [INFO] [2021-01-06 22:58:22][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/../resources] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+  [INFO] [2021-01-06 22:58:22][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization completed in 598 ms
+  
